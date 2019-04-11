@@ -40,6 +40,7 @@ public class Novikova2 {
                     break;
             }
             
+            
             System.out.printf("Days in month: %d and year: %d are %d%n", month, year, days);
             
     } 
