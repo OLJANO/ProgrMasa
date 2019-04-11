@@ -39,6 +39,7 @@ public class Novikova2 {
                     System.out.println("Invalid month");
                     break;
             }
+            
             System.out.printf("Days in month: %d and year: %d are %d%n", month, year, days);
             
     } 
